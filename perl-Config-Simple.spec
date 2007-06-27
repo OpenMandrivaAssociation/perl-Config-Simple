@@ -2,12 +2,12 @@
 
 Summary:	Config-Simple module for perl 
 Name:		perl-%{real_name}
-Version:	4.58
-Release:	%mkrel 2
+Version:	4.59
+Release:	%mkrel 1
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
-Source0:	%{real_name}-%{version}.tar.bz2
+Source0:	%{real_name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
